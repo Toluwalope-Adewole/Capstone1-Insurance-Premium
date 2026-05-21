@@ -30,7 +30,7 @@ data, improving pricing accuracy and reducing assessment time.
 3. Engineered Policy Age feature from date columns
 4. Applied log1p transformation to skewed features
 5. Scaled numerical features using StandardScaler
-6. Built scikit-learn pipeline — preprocessing + model
+6. Built scikit-learn pipeline  preprocessing + model
 7. Trained and compared Linear Regression, Random Forest,
    and Gradient Boosting
 8. Evaluated with MAE, RMSE, and R² score
